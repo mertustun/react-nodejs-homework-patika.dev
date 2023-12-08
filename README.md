@@ -1,2 +1,3 @@
-# react-nodejs-homework-patika.dev
-First homework is done for introduction to react/nodejs in patik.dev web development course.
+# Intermediate Level Web Development Path (React) Homework
+
+ ## This repository contains my completed homework and study sheets for the Intermediate level Web Development Path on patika.dev.
